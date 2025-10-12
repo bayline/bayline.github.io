@@ -46,7 +46,7 @@
 .banner {
     width: 100%;
     height: 100vh;
-    background-image: url("https://github.com/najil-debug/bayline.github.io/blob/c5ad5620478c01d81d9534b3041bb6fc3dbc0083/asset/bg.webg");
+    background-image: url(najil-debug/bayline.github.io/assets/bg.webp);
     background-position: center;
     background-size: cover;
     display: flex;
